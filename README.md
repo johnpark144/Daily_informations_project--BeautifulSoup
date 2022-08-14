@@ -1,4 +1,11 @@
 # Daily_informations--BeautifulSoup
+- Creater : Yeonghwan Park (John Park)
+- Tools : Python(BeautifulSoup)
+- Explantion :
+This is the scraping program to check Current Weather info, Headline News and to learn Korean with differn sentences everyday
+We can save the trouble of wasting time to check one by one, It is very convenient
+- Date of creation : Aug 9th 2022
+
 # Sample Images
 
 - August, 9th, 2022
